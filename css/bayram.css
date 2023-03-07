@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+    margin: auto;
+}
+.dil{
+    color: #fff;
+    text-align: left;
+    font-size: 110%;
+    margin: 3%;
+    
+    position: absolute;
+    top: 260px;
+}
+.ism{
+    padding-top: 5%;
+    font-style: italic;
+    text-align: right;
+}
+.sher{
+    color: #fff;
+    border: rgb(9, 255, 255);
+    border-style: groove;
+    border-width: 10px;
+    padding: 2%;
+
+    position: absolute;
+
+    text-align: center;
+    font-size: 64%;
+    margin: 3%;
+
+    height: 40%;
+    overflow: auto;
+}
+.mart{
+    width: 120%;
+    margin-right: -20%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
